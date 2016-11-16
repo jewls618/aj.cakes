@@ -1,5 +1,4 @@
-aj-cakes.com
 
-AJ Cakes Bakery Site
+Aj. Cakes Bakery Site
 
 Built using Foundation 6
