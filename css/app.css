@@ -360,10 +360,7 @@ img.bakery {
   .learn-more {
     margin-top: -500px;
   }
-  button.menu-icon.light {
-    color: black;
-  }
   .top-bar {
-    background-color: rgba(0,0,0,0.55);
+    background-color: rgba(255,255,0,0.3;
   }
 }
