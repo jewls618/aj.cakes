@@ -331,15 +331,9 @@ img.bakery {
   .learn-more {
     margin-top: -65px;
   }
-  /*div.mobile {
-    display: block;
-  }*/
   div.hours {
     padding-left: 40px;
   }
-  /*h1.welcome {
-    margin-bottom: -500px;
-  }*/
   .pastry-pic {
     width: 100%;
     height: 350px;
@@ -350,22 +344,15 @@ img.bakery {
     border-bottom: 1px solid grey;
     margin-bottom: 50px;
   }
-  /*header {
-    background-attachment: fixed;
+  header {
     background-image: none;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    max-width: 0;
-    min-height: 0px;
-    padding: 0;
-  }*/
+  }
   .welcome {
     display: none;
   }
   img.bakery {
     display: block;
+    width: 100%;
   }
   .mobile {
     display: none;
@@ -375,5 +362,8 @@ img.bakery {
   }
   button.menu-icon.light {
     color: black;
+  }
+  .top-bar {
+    background-color: rgba(0,0,0,0.55);
   }
 }
