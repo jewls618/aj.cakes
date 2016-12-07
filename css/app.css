@@ -281,6 +281,7 @@ h2.heading {
 p.tagline {
   text-align: center;
   font-style: italic;
+  margin-top: -75px;
 }
 
 h3.order {
@@ -314,6 +315,14 @@ div.chalk {
 }
 
 img.bakery {
+  display: none;
+}
+
+#pricing:hover {
+  color: grey;
+}
+
+#item {
   display: none;
 }
 

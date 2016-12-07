@@ -53,3 +53,7 @@ function cookieShowDivs(n) {
   }
   x[cookieSlideIndex-1].style.display = "block";
 }
+
+$("#button").click(function() {
+    $("#item").toggle();
+});
