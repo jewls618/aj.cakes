@@ -281,7 +281,8 @@ h2.heading {
 p.tagline {
   text-align: center;
   font-style: italic;
-  margin-top: -75px;
+  margin-top: -55px;
+  margin-bottom: -30px;
 }
 
 h3.order {
@@ -310,7 +311,7 @@ div.chalk {
   display: flex;
   flex-direction: column;
   max-width: 100%;
-  min-height: 200px;
+  min-height: 150px;
   padding: 0 0 1em 0;
 }
 
@@ -324,6 +325,11 @@ img.bakery {
 
 #item {
   display: none;
+}
+
+.seasonal {
+  text-align: right;
+  padding-right: 5px;
 }
 
 @media (max-width: 700px) {
