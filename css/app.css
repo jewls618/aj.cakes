@@ -48,6 +48,10 @@ body {
   padding-top: 50px;
 }
 
+.contact-text {
+  font-size: 10px;
+}
+
 .copyright {
   font-size: 12px;
   text-align: center;
