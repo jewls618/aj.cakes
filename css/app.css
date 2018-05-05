@@ -375,9 +375,9 @@ img.bakery {
 }
 
 .coming-soon {
-  font-family: 'Poppins', serif;
   color: #F2B116;
-  font-size: 36px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 
